@@ -1,0 +1,9 @@
+{
+  "name": "vue-attr-stringify-loader",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gogocode": "^1.0.31"
+  }
+}
