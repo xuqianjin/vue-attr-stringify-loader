@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "gogocode": "^1.0.31"
   }
 }
