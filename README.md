@@ -24,6 +24,6 @@ Converts
 
 ```javascript
 {
-  "attr":['data-bb']
+  "attr":[':data-bb']
 }
 ```
